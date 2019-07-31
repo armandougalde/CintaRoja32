@@ -1,0 +1,6 @@
+MERN 
+
+mongo
+express
+reac
+node
