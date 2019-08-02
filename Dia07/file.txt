@@ -1,0 +1,6 @@
+Stack - MERN
+
+MongoDB(no relacional)
+Express(servidr)
+React (cliente)
+NodeJs => (Node PAckage Manager)
