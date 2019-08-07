@@ -25,10 +25,6 @@ class pokemon {
     }
 }
 
-
-
-
-
 const getPokemon = (pok) => {
     let options = {
         method: 'GET',

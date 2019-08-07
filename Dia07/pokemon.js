@@ -12,3 +12,7 @@ class pokemon {
     }
 }
 
+module.exports ={
+Pokemon
+
+}

@@ -11,6 +11,11 @@ const port = 3000;
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+
+// importar clase pokemon
+
+const {pokemon}=require('./pokemon');
+
 app.get("/", (req, res) => {
 
     res.status(200).send({
@@ -94,7 +99,9 @@ app.get("/pokemon:nombre", (req, res) => {
 });
 
 
-//
+//sytanxis
+
+getPOkemon().then.().catch()
 
 
 
